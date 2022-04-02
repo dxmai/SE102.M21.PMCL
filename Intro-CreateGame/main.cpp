@@ -58,7 +58,7 @@ ID3D10RenderTargetView* pRenderTargetView = NULL;
 int BackBufferWidth = 0;
 int BackBufferHeight = 0;
 
-#define TEXTURE_PATH_BRICK L"brick.png"
+#define TEXTURE_PATH_BRICK L"ball.png"
 #define BRICK_START_X 8.0f
 #define BRICK_START_Y 200.0f
 
